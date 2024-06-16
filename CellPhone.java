@@ -1,11 +1,3 @@
-/**
- * Name(s) and ID(s) (Dalia Betinjaneh 40200966)
- * COMP249
- * Assignment # (3)
- * Due Date (Saturday December 2)
- * 
- */
-
 import java.util.Scanner;
 import java.util.InputMismatchException;
 
